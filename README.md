@@ -65,7 +65,7 @@ AmbuAlert/
 To clone this repository to your local machine, run:
 
 
-git clone https://github.com/SINGH-MANPREET-1708/AmbuAlert.git4
+git clone https://github.com/SINGH-MANPREET-1708/AmbuAlert.git
 
 cd AmbuAlert
 
