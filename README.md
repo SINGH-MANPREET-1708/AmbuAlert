@@ -6,7 +6,6 @@ The system is built using the YOLOv8 object detection model and is demonstrated 
 This project is intended for academic learning, student projects, and prototyping intelligent traffic monitoring solutions.
 
 
-
 ##  Key Features
 
 - Real-time ambulance detection in images and videos  
@@ -45,12 +44,14 @@ https://www.kaggle.com/datasets/manpreetsingh04/ambulance
 
 ## Project Structure
 AmbuAlert/
+
 ├── ambualert_app.py       
 ├── ambualert_cli.py        
 ├── train_yolov8.py         
 ├── ambualert_yolov8n.pt    
 ├── demo_video.mp4         
 ├── requirements.txt
+
 └── README.md
 
 
@@ -59,26 +60,35 @@ AmbuAlert/
 To clone this repository to your local machine, run:
 
 
-git clone https://github.com/SINGH-MANPREET-1708/AmbuAlert.git
+git clone https://github.com/SINGH-MANPREET-1708/AmbuAlert.git4
+
 cd AmbuAlert
 
-##Install Dependencies
+## Install Dependencies
 
 Ensure Python 3.8 or higher is installed, then run:
 
 pip install -r requirements.txt
 
 ## Run the Streamlit Web Application 
+
 streamlit run ambualert_app.py
 
 -Upload an image or video
+
 -Ambulances are detected automatically
+
 -Download the annotated output
+
 
 ## Contact
 
 Manpreet Singh
+
 B.Tech CSE (AI & ML)
+
 DAV Institute of Engineering & Technology, Jalandhar
+
 Email: mrsingh31524@gmail.com
+
 Phone: +91 62806-20692
