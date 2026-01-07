@@ -45,11 +45,16 @@ https://www.kaggle.com/datasets/manpreetsingh04/ambulance
 ## Project Structure
 AmbuAlert/
 
-├── ambualert_app.py       
+├── ambualert_app.py    
+
 ├── ambualert_cli.py        
+
 ├── train_yolov8.py         
+
 ├── ambualert_yolov8n.pt    
+
 ├── demo_video.mp4         
+
 ├── requirements.txt
 
 └── README.md
